@@ -1,2 +1,2 @@
 # Emotion-Classification-on-Twitter-Data
-Trained multiple models (Logistic Regression, SVM, Random Forest, Neural Network, IndoBERT) on 4,000+ labeled Indonesian tweets for emotion classification.
+Preprocessed a labeled Indonesian Twitter dataset of 4,000+ rows using NLP techniques. Applied multiple approaches: classical ML (Logistic Regression, SVM, Random Forest), Neural Network, Deep Learning models, and performed hyperparameter tuning. Fine-tuned IndoBERT, achieving 94% accuracy, the highest among tested models. Evaluated performance with precision, recall, F1-score, and confusion matrix visualization.
